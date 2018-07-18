@@ -3,7 +3,7 @@ Deep Learning of Binary Hash Codes for Fast Image Retrieval on Windows.
 
 ## Citing the cvprw15 works
 
-If you find our works useful in your research, please consider citing:
+If you want to know more about 'Deep Learning of Binary Hash Codes for Fast Image Retrieval', please read the paper:
 
     Deep Learning of Binary Hash Codes for Fast Image Retrieval
     K. Lin, H.-F. Yang, J.-H. Hsiao, C.-S. Chen
